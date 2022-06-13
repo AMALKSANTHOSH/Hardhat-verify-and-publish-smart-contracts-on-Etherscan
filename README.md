@@ -114,7 +114,7 @@ Add those lines at the top of your hardhat.config.js
 
 We need to generate an etherscan.io API key. Sign up and generate your API key here: https://etherscan.io/myapikey
 
-Then add api-keys to truffle-config.js
+Then add api-keys to hardhat.config.js
 
 ```bash
  api_keys: {
